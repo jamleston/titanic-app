@@ -18,8 +18,8 @@ model_choice = st.sidebar.radio(
 st.sidebar.divider()
 st.sidebar.markdown(
     """
-    **Note:** The best accuracy of 0.83 was achieved with the *Random Forest* model.
-    For the most reliable prediction, my recommendation is using this model 😅
+    **Note:**
+    *Random Forest* has the highest accuracy (0.83) and is recommended for reliable predictions
     """
 )
 

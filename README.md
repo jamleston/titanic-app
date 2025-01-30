@@ -32,11 +32,11 @@ This project aims to predict whether a passenger would survive the Titanic disas
 
 **Model Development:**
 - Four models were built and tested to predict survival:
-        - Logistic Regression
-        - Decision Tree
-        - Random Forest
-            - Achieved the highest accuracy (0.83), making it the most reliable model for predictions.
-        - Gradient Boosting
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+        - Achieved the highest accuracy (0.83), making it the most reliable model for predictions.
+    - Gradient Boosting
 
 **Streamlit App:**
 - An interactive Streamlit-based web application allows users to:
